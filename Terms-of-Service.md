@@ -2,9 +2,12 @@
 
   ## Terms of Service
 
-   By creating your bot, you agree to Discord's Developer Terms of Service, Discord's Developer policy and Build A Bot's Rules and ToS. Failing to comply with these terms, your bot will be terminated by the server admins without notice.
+  > By creating your bot, you agree to Discord's [Developer Terms of Service](https://discord.com/developers/docs/policies-and-agreements/terms-of-service), Discord's [Developer policy](https://discord.com/developers/docs/policies-and-agreements/developer-policy) and Build A Bot's [Rules](https://discord.com/channels/692426665934061668/1048652181345157261/1050832294115561512) and [Terms of Service](https://github.com/OMJO-MOJO/Build-A-Bot/blob/main/Terms-of-Service.md#terms-of-service). Failing to comply with these terms, your bot will be terminated by the server admins without notice.
+   
+  > Leaving the Build A Bot Discord Server will result in your bot to be permanently deleted.
+  
+  > Leaving a partnered server will result in removing one feature if your feature count is higher than your maximumm number of feature allowed.
 
-   Leaving this server will cause your bot to be deleted permanently and leaving any of the partnered servers will reduce the number of features on your bot.
 
   ## Privacy Policy
 
